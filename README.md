@@ -14,6 +14,7 @@ Parts list
 HEPA filter https://www.amazon.com/gp/product/B07DMCKPGJ
 prefilter https://www.amazon.com/gp/product/B000U204W2
 5v blower fan https://www.amazon.com/gp/product/B012CL2V3I
+12v blower fan https://www.amazon.com/gp/product/B07RMJC9NT
 8 M5x10 computer fan screws https://www.amazon.com/gp/product/B07MPB94JG
 6ft CPAP hose https://www.amazon.com/dp/B01N4RGZ80/ref=psdc_8627104011_t3_B07Q87VZ62
 silicon or glue for sealant
