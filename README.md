@@ -1,5 +1,5 @@
 HEPA Positive Pressure Hood
-This is a HEPA filter made with a 5 volt blower fan and a 86889 HEPA vacuum filter.
+This is a HEPA filter made with a 5 or 12 volt blower fan and a 86889 HEPA vacuum filter.
 It is designed to be used with ether a 3m half face respirator, a gas mask with 40mm threading, or any large clear plastic bag to be used as a full head positive pressure hood.
 
 I designed this for myself and anyone else who works in health care and may not have access to enough equipment to protect yourself. With a 2 mil or 3 mil optically clear bag you should have full face protection that allows you unrestricted breathing and movement. the bags can be easily and cleanly removed and disposed with basic precautions.
