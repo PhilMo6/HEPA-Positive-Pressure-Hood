@@ -11,24 +11,27 @@ Airflow for use with a bag is more then enough for what the average human breath
 
 Parts list
 
-HEPA filter https://www.amazon.com/gp/product/B07DMCKPGJ
-prefilter https://www.amazon.com/gp/product/B000U204W2
-5v blower fan https://www.amazon.com/gp/product/B012CL2V3I
-12v blower fan https://www.amazon.com/gp/product/B07RMJC9NT
-8 M5x10 computer fan screws https://www.amazon.com/gp/product/B07MPB94JG
-6ft CPAP hose https://www.amazon.com/dp/B01N4RGZ80/ref=psdc_8627104011_t3_B07Q87VZ62
-silicon or glue for sealant
-I used extra large clear 2 mil bags
-https://www.amazon.com/gp/product/B073W23GDF
+-HEPA filter https://www.amazon.com/gp/product/B07DMCKPGJ 
+-prefilter https://www.amazon.com/gp/product/B000U204W2 
+-5v blower fan https://www.amazon.com/gp/product/B012CL2V3I 
+-12v blower fan https://www.amazon.com/gp/product/B07RMJC9NT 
+-8 M5x10 computer fan screws https://www.amazon.com/gp/product/B07MPB94JG 
+-6ft CPAP hose https://www.amazon.com/dp/B01N4RGZ80/ref=psdc_8627104011_t3_B07Q87VZ62 
+-silicon or glue for sealant 
 
-these have show to be strong and clear enough to read text without much problem.
 
--CPAP hose should be cut to length and cut end sealed into the outlet adapter first.
--After hose sealant has set seal around edge of the fan and put fan into place.
+I used extra large clear 2 mil bags. These have show to be strong and clear enough to read text without much problem.
+https://www.amazon.com/gp/product/B073W23GDF 
+You can find thicker bags or buy 2 mil in bulk from many suppliers.
+https://www.uline.com/Grp_3/Poly-Bags-Flat-Open 
+
+
+-CPAP hose can be cut to length and cut end sealed into the outlet adapter. If doing this way then wait for sealent to set before continuing.
+-Add sealent around edge of the fan and put fan into place.
 -Add sealant around groove for the outlet adapter and set in place.
 -Seal around the edge of fan cover and screw into place.
 -Add additional sealant to the fans cord coming out of case.
--Let set for 24 hours then run fan for an additional 12 to 24 hours to fully cure sealant and
+-Let set for 12 hours then run fan for an additional 12 to 24 hours to fully cure sealant and
 remove any residual gasses or smells from sealant.
 -You can now set filter into place and cut and fit a prefilter. then screw fan cover into place.
 
